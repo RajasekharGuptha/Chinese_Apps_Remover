@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".splashscreen">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="367dp"
+        android:layout_height="425dp"
+        android:contentDescription="@string/splashscreen_logo"
+        app:srcCompat="@drawable/spalsh"
+        tools:layout_editor_absoluteX="69dp"
+        tools:layout_editor_absoluteY="195dp" />
+
+    <TextView
+        android:layout_width="323dp"
+        android:layout_height="110dp"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:text="Chinese Apps \n Alternatives"
+        android:textColor="@color/white" />
+</LinearLayout>

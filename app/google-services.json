@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "839949966231",
+    "firebase_url": "https://chinese-alt.firebaseio.com",
+    "project_id": "chinese-alt",
+    "storage_bucket": "chinese-alt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839949966231:android:b62dabc4f0eab463f982d2",
+        "android_client_info": {
+          "package_name": "com.rahtech.chineseappsremover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839949966231-npv0mbbkre782epdcdht0mcjv3o964um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZCunZlvosu26MeEnDQepleXizO2ejlWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839949966231-npv0mbbkre782epdcdht0mcjv3o964um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

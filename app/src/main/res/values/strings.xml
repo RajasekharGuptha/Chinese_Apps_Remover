@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Chinese Apps Alternatives</string>
+    <string name="package_name">com.rahtech.chineseappsremover</string>
+    <string name="splashscreen_logo">splashscreen_logo</string>
+    <string name="add_missing_app">Add Missing Dragon App</string>
+    <string name="promote">Suggest better alternatives..!</string>
+    <string name="if_any_app_missing_add_it_here">if any app missing add it here</string>
+    <string name="submit">SUBMIT</string>
+    <string name="any_dragon_app_not_detected">Any Dragon App Not Detected..?</string>
+    <string name="missing_app_name">App name..</string>
+    <string name="submitting">SUBMITTING…</string>
+    <string name="feedback">Report Inappropriate..!</string>
+    <string name="report_hint">App name that is inappropriate</string>
+    <string name="uninstall_this">Uninstall this</string>
+    <string name="uninstall_this_app">Uninstall this</string>
+    <string name="alternatives">Check Alternatives..</string>
+    <string name="alternatives_for_this_app">Alternatives for this app</string>
+    <string name="alternatives_for">Alternatives for</string>
+    <string name="alternative_for_app">Alternative For App</string>
+    <string name="all_suggestions">All Suggestions</string>
+    <string name="all_apps_alternatives">All Apps Alternatives</string>
+    <string name="share_app">Share App.!</string>
+    <string name="share_this_app_with_friends">share this app with friends</string>
+</resources>

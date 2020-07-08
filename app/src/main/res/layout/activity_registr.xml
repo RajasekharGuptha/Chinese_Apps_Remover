@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="10dp"
+    android:background="@color/background"
+    android:layout_height="match_parent"
+    tools:context=".registr">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Suggest App as Alternative"
+        android:textColor="@color/white"
+        android:padding="10dp"
+        />
+    <EditText
+        android:layout_width="300dp"
+        android:textColor="@color/white"
+        android:padding="10dp"
+        android:inputType="text"
+        android:importantForAutofill="no"
+        android:layout_height="wrap_content"
+        android:id="@+id/alt_for"
+        android:hint="@string/alternative_for_app"
+        android:textColorHint="@color/colorAccent"
+        />
+    <EditText
+        android:layout_width="300dp"
+        android:textColor="@color/white"
+        android:padding="10dp"
+        android:inputType="text"
+        android:importantForAutofill="no"
+        android:layout_height="wrap_content"
+        android:id="@+id/alt"
+        android:hint="Alternate app name"
+        android:textColorHint="@color/colorAccent"
+        />
+    <EditText
+        android:layout_width="300dp"
+        android:textColor="@color/white"
+        android:padding="10dp"
+        android:inputType="text"
+        android:importantForAutofill="no"
+        android:layout_height="wrap_content"
+        android:id="@+id/alt_link"
+        android:hint="App's PlayStore Link(optional) "
+        android:textColorHint="@color/colorAccent"
+        />
+    <Button
+        android:id="@+id/submit_btn_3"
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/submit"
+        android:onClick="submit"
+        />
+
+
+</LinearLayout>
